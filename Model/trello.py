@@ -298,7 +298,7 @@ if __name__ == "__main__":
 # KEY = os.environ.get("TRELLO_KEY", "e1c4f065d364f589d3a5be40b6de6e2c")
 # TOKEN = os.environ.get(
 #     "TRELLO_TOKEN",
-#     "ATTA190cd8dd574c4ea8118a47de0c9e66b14eee0d8081afee4255748f575bd98770357BE025",
+#     "",
 # )
 
 

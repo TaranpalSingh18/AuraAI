@@ -295,11 +295,8 @@ if __name__ == "__main__":
 # create_lists_from_participants(particpants=participants)
 
 
-# KEY = os.environ.get("TRELLO_KEY", "e1c4f065d364f589d3a5be40b6de6e2c")
-# TOKEN = os.environ.get(
-#     "TRELLO_TOKEN",
-#     "",
-# )
+# KEY = os.environ.get("TRELLO_KEY")
+# TOKEN = os.environ.get("TRELLO_TOKEN")
 
 
 # TRELLO_BASE = "https://api.trello.com/1"
